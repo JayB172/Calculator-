@@ -1,0 +1,27 @@
+#calculator{
+    height: 600px;
+    width: 400px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    border: 1px solid;
+    padding: 0;
+}
+
+#displayField{
+    width: 398px;
+    height: 80px;
+    background-color: rgb(221, 225, 231);
+    border: 0;
+   
+}
+
+.buttonRow{
+    
+    margin-top: 30px;
+}
+
+.calcBtn{
+    width: 100%;
+}
